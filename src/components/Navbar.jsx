@@ -4,7 +4,7 @@ import Button from './ui/button'; // ✅ Fix: default import
 
 const Navbar = ({ darkMode, toggleDarkMode }) => {
   return (
-    <nav className="flex justify-between items-center px-6 py-4 bg-white dark:bg-gray-800 shadow">
+    <nav className="flex justify-between items-center px-6 py-4 bg-white dark:bg-gray-800 shadow ">
       <h1 className="text-2xl font-bold text-gray-800 dark:text-white">
         DevConnect
       </h1>

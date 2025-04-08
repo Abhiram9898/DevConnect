@@ -71,10 +71,10 @@ https://api.github.com/users?since=0&per_page=100
 ## Screenshots
 
 *Dark Mode + Responsive Cards*
-![screenshot-dark](assets/screenshot-dark.png)
+![screenshot-dark]![alt text](image.png)
 
 *Light Mode + Pagination & Search*
-![screenshot-light](assets/screenshot-light.png)
+![screenshot-light] ![alt text](image-1.png)
 
 ---
 
