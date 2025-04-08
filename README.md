@@ -78,9 +78,7 @@ https://api.github.com/users?since=0&per_page=100
 
 ---
 
-## Deployment
 
-You can deploy this project for free using [Vercel](https://vercel.com) or [Netlify](https://netlify.com). Simply import the GitHub repository and deploy!
 
 ---
 
