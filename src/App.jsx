@@ -54,7 +54,7 @@ const DevConnect = () => {
         <Navbar darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
         <div className="p-6">
           {/* Search & Sort */}
-          <div className="flex flex-col sm:flex-row items-center justify-between mb-6 gap-4">
+          <div className="flex flex-col sm:flex-row items-center justify-between mb-6 gap-4 text-white">
             <input
               type="text"
               placeholder="Search developers..."
